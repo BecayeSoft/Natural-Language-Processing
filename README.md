@@ -6,7 +6,7 @@ If you have any questions or suggestions, don't hesitate to reach out!
 ## Requirement
 
 ```
-pip install requirement.txt
+pip install -r requirement.txt
 ```
 
 ## Table of Contents
